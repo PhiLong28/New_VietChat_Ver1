@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "860096994066",
+    "project_id": "chatviet-a15dd",
+    "storage_bucket": "chatviet-a15dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860096994066:android:0f98e401a35d5102b671cb",
+        "android_client_info": {
+          "package_name": "com.chatviet.example"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJI6smslEbbrUXgF1xNuf6i8KjaCOOg58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
